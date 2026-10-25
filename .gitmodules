@@ -62,7 +62,7 @@
 	url = https://github.com/px4/rosidl
 [submodule "src/modules/zenoh/zenoh-pico"]
 	path = src/modules/zenoh/zenoh-pico
-	url = https://github.com/px4/zenoh-pico
+	url = https://github.com/beniaminopozzan/zenoh-pico
 	branch = dev/1.0.0-px4
 [submodule "src/lib/heatshrink/heatshrink"]
 	path = src/lib/heatshrink/heatshrink
